@@ -29,15 +29,23 @@ Define os atributos e métodos comuns que serão compartilhados por um objeto.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 OBJETO - 
 
-Uma objeto e uma coisa material ou abstrata que pode ser percebida pelos sentidos e descrita por meio das suas caracterítsticas, comportamentos e ewstado atual.
+Uma objeto e uma coisa material ou abstrata que pode ser percebida pelos sentidos e descrita por meio das suas caracterítsticas, comportamentos e estado atual.
 
-todo objeto tem que vir de uma classe. E quando eu tenho uma classe e eu quero tranforma em um objeto eu devo INSTANCIAR.
+Todo objeto tem que vir de uma classe. E quando eu tenho uma classe e quero transformá-la em um objeto, devo instanciar.
 
 # Instanciar
 
-c1 = new Caneta
+Caneta c1 = new Caneta();
 
 
+O objeto é a instância de uma classe. 
 
-É a instância de uma classe. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+📌 Mini resumo (pra fixar):
+
+Classe → é o molde (ex: a ideia de uma Caneta)
+
+Objeto → é a coisa concreta criada a partir da classe (ex: uma caneta azul na sua mão)
+
+Instanciar → é o ato de criar um objeto a partir da classe
 
