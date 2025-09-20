@@ -1,0 +1,22 @@
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Pasta de saída do IntelliJ (compilação)
+out/
+
+# Configurações do IntelliJ
+.idea/
+*.iml
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.swp
+
+# Pastas de build comuns Java
+target/
+bin/
+
+*.gitignore~
+
