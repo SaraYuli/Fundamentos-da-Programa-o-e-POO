@@ -1,11 +1,14 @@
 CLASSE - É um modelo que define as características e comportamento de objetos. (um plano, uma receita de bolo). Eu imagino a classe como uma receita de bolo. Ela não é o bolo em si, mas sim a ideia de como ele vai ficar. A receita passa os ingredientes — que seriam os atributos,e o modo de preparo — que seriam os métodos (ou comportamentos).
 
-Atributos (São Características ou propriedades do objeto)
+# Atributos (São Características ou propriedades do objeto)
+
 public String cor;
 public String modelo;
 public int ano;
-Metodos (São as funções ou comportamentos da classe/objeto)
-public void ligar(){
+
+# Metodos (São as funções ou comportamentos da classe/objeto)
+
+public void ligar() {
     System.out.println("O carro está ligado");
 }
 
@@ -18,13 +21,11 @@ Três perguntas que uma classe teria que responder:
 
 Define os atributos e métodos comuns que serão compartilhados por um objeto.
 
-OBJETO -
-
-Uma objeto e uma coisa material ou abstrata que pode ser percebida pelos sentidos e descrita por meio das suas caracterítsticas, comportamentos e estado atual.
+OBJETO - Uma objeto e uma coisa material ou abstrata que pode ser percebida pelos sentidos e descrita por meio das suas caracterítsticas, comportamentos e estado atual.
 
 Todo objeto tem que vir de uma classe. E quando eu tenho uma classe e quero transformá-la em um objeto, devo instanciar.
 
-Instanciar
+# Instanciar
 
 Caneta c1 = new Caneta();
 
