@@ -1,4 +1,4 @@
-CLASSE - 
+CLASSE
 É um modelo que define as características e comportamento de objetos. (um plano, uma receita de bolo). Eu imagino a classe como uma receita de bolo. 
 Ela não é o bolo em si, mas sim a ideia de como ele vai ficar.
 A receita passa os ingredientes — que seriam os atributos,e o modo de preparo — que seriam os métodos (ou comportamentos).
@@ -27,7 +27,7 @@ Define os atributos e métodos comuns que serão compartilhados por um objeto.
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-OBJETO - 
+OBJETO 
 
 Uma objeto e uma coisa material ou abstrata que pode ser percebida pelos sentidos e descrita por meio das suas caracterítsticas, comportamentos e ewstado atual.
 
