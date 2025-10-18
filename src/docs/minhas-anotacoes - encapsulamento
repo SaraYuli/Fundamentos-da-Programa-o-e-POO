@@ -1,0 +1,40 @@
+# Encapsulamento em Java
+
+  Encapsulamento é o princípio de esconder os dados internos de uma classe e proteger o acesso a eles.
+
+  Isso é feito com:
+
+  * Atributos privados (private)
+
+  * Métodos públicos get e set para acessar/modificar os dados
+
+ * O get retorna o valor de um atributo, sem alterar nada.
+
+  * O set altera o valor do atributo, com chance de aplicar regras (como evitar valores inválidos).
+
+  Encapsulamento ajuda a:
+
+  Evitar erros (como alterar dados por acidente)
+
+  Controlar como os dados são usados
+
+  Proteger as regras da aplicação
+
+----------------------------------------------------------------------------------------------------------
+    Resumo: @Override em Java
+
+    @Override é uma anotação que indica que você está sobrescrevendo um método
+    que já foi definido em uma superclasse ou em uma interface.
+
+    Isso acontece, por exemplo:
+
+    Quando uma classe filha reescreve um método da classe pai
+
+    Quando você implementa um método abstrato de uma classe abstrata
+
+    Quando você implementa um método de uma interface
+
+
+    "Significa sobrescrever. Já tinha um método definido (por exemplo, abstrato ou herdado),
+     mas ele ainda não tinha uma implementação. Agora, eu estou dizendo: 'deixa comigo, eu vou programar esse método aqui.'"
+
